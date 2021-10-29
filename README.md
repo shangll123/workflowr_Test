@@ -1,1 +1,5 @@
-# workflowr_Test
+# SpatialPCA
+
+A [workflowr][] project.
+
+[workflowr]: https://github.com/jdblischak/workflowr
