@@ -1,4 +1,4 @@
-# SpatialPCA
+# SpatialPCA_tutorial
 
 A [workflowr][] project.
 
